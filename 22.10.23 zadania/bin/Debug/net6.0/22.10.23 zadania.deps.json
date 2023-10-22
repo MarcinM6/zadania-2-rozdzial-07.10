@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "22.10.23 zadania/1.0.0": {
+        "runtime": {
+          "22.10.23 zadania.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "22.10.23 zadania/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
